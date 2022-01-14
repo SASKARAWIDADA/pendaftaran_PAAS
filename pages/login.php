@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Login</title>
+        <title>LoginPAAS</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
