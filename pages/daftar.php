@@ -6,7 +6,7 @@
     </head>
     <body>
         <div class="container">
-          <h1>Daftar</h1>
+          <h1><b>Daftar</b></h1>
             <form method="POST" action="../proses.php">
 
                 <!-- <input type="hidden" name="tujuan" value="DAFTAR"> -->
